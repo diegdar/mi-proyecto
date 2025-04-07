@@ -1,6 +1,0 @@
-[submodule "ejemplo-plantilla"]
-	path = ejemplo-plantilla
-	url = https://github.com/diegdar/ejemplo-plantilla.git
-[submodule "libs/repository-externo"]
-	path = libs/repository-externo
-	url = https://github.com/diegdar/ejemplo-plantilla.git
